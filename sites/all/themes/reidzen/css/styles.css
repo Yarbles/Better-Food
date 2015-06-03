@@ -25,6 +25,13 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
-.header__secondary-menu div{
+#header div{
     display: inline-flex;
+}
+
+#block-block-1 h2 {
+    background-image: url("../images/cropped-healthy-food_header.jpg");
+    background-size: 100%;
+    width: 700px;
+    height: 100px;
 }
